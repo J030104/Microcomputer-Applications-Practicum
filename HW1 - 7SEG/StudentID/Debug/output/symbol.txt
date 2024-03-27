@@ -1,0 +1,91 @@
+00000000 W _RELAX_END_
+00000000 T _nds32_vector_00
+00000010 W _nds32_vector_01	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid01.S:40
+00000020 W _nds32_vector_02	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid02.S:40
+00000030 W _nds32_vector_03	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid03.S:40
+00000040 W _nds32_vector_04	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid04.S:40
+00000050 W _nds32_vector_05	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid05.S:40
+00000060 W _nds32_vector_06	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid06.S:40
+00000070 W _nds32_vector_07	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid07.S:40
+00000080 T _nds32_vector_08
+00000090 T _nds32_vector_09
+000000a0 T _nds32_vector_10
+000000b0 W _nds32_vector_11	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid11.S:40
+000000c0 W _nds32_vector_12	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid12.S:40
+000000d0 W _nds32_vector_13	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid13.S:40
+000000e0 W _nds32_vector_14	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid14.S:40
+000000f0 T _nds32_vector_15
+00000100 R _nds32_nmih
+00000104 R _nds32_wrh
+00000108 R _nds32_jmptbl_00
+0000010c V _nds32_jmptbl_01
+00000110 V _nds32_jmptbl_02
+00000114 V _nds32_jmptbl_03
+00000118 V _nds32_jmptbl_04
+0000011c V _nds32_jmptbl_05
+00000120 V _nds32_jmptbl_06
+00000124 V _nds32_jmptbl_07
+00000128 R _nds32_jmptbl_08
+0000012c R _nds32_jmptbl_09
+00000130 R _nds32_jmptbl_10
+00000134 V _nds32_jmptbl_11
+00000138 V _nds32_jmptbl_12
+0000013c V _nds32_jmptbl_13
+00000140 V _nds32_jmptbl_14
+00000144 R _nds32_jmptbl_15
+00000148 T _nds32_e_sa_nr	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/excp_isr.S:101
+0000018a T _nds32_i_ps_nn	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/intr_isr.S:116
+000001a0 T _nds32_i_ps_nr	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/intr_isr.S:103
+000001e0 T _nds32_reset	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+000001e0 T _start	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+00000260 t Default_Handler	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:17
+00000260 W HW2_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000260 W HW3_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000260 W HW4_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000260 W HW5_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000260 W SW0_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000260 W error_exception_handler	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000260 W tlb_exception_handler	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:19
+00000262 T __null_function	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:22
+00000264 T __c_init	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:26
+0000028e T __cpu_init	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-default.c:49
+000002bc T _nds32_init_mem	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-soc.c:19
+000002cc T __soc_init	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../init-soc.c:26
+000002ce T nmi_handler	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:7
+000002d0 T GIE_ENABLE	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:11
+000002da T GIE_DISABLE	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:17
+000002e4 T gen_swi	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:24
+000002f8 T initIntr_standby	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:34
+00000300 T clear_swi	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:43
+0000030c T reset_handler	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:63
+00000334 T syscall_handler	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:76
+00000336 T HW0_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:91
+0000037c T HW1_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:112
+000003b4 T SWI_ISR	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:129
+000003d0 T delay1	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:6
+000003e8 T DRV_EnableHWInt	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:18
+00000402 T DRV_BlockIntDisable	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:28
+00000422 T DRV_IntInitial	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:39
+00000438 T DRV_SysXtal	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:54
+0000044c T OS_PowerOnDriverInitial	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:80
+00000464 T main	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:107
+000004c0 T DRV_PutChar	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../uart.c:71
+000004f6 T DRV_PutStr	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../uart.c:93
+00000512 T DRV_IntToStr	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../uart.c:108
+000005ca T DRV_Printf	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../uart.c:194
+00000760 T memcpy
+00000774 T memset
+00000888 A __data_lmastart
+00100200 D __data_start
+00100200 D stuID	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:105
+00100220 D index_7seg	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:104
+00100240 D index_7seg_num	/cygdrive/c/Users/user/Downloads/LED_LAB_simple/Debug/../main.c:103
+00100250 W _FP_BASE_
+00100250 W _SDA_BASE_
+00100284 B __bss_start
+00100284 B _edata
+00100284 B _lmaend
+00100284 B count	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../interrupt-c-ext.c:86
+00100288 B u8TxdBuf	/cygdrive/d/微算機/微算機應用實習助教/Lecture2/給學生/空專案/Debug/../uart.c:69
+001002a0 B _end
+00103000 A _stack

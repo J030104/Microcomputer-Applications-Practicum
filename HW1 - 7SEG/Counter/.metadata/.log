@@ -1,0 +1,9 @@
+!SESSION 2023-03-09 16:32:03.131 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.osgi 2 1 2023-03-09 16:32:12.825
+!MESSAGE NLS unused message: TargetTab_0 in: com.andestech.ide.cdt.managedbuilder.ui.target.messages
