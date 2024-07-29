@@ -1,0 +1,105 @@
+00000000 W _RELAX_END_
+00000000 T _nds32_vector_00
+00000010 W _nds32_vector_01	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid01.S:40
+00000020 W _nds32_vector_02	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid02.S:40
+00000030 W _nds32_vector_03	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid03.S:40
+00000040 W _nds32_vector_04	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid04.S:40
+00000050 W _nds32_vector_05	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid05.S:40
+00000060 W _nds32_vector_06	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid06.S:40
+00000070 W _nds32_vector_07	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid07.S:40
+00000080 T _nds32_vector_08
+00000090 T _nds32_vector_09
+000000a0 T _nds32_vector_10
+000000b0 W _nds32_vector_11	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid11.S:40
+000000c0 W _nds32_vector_12	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid12.S:40
+000000d0 W _nds32_vector_13	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid13.S:40
+000000e0 W _nds32_vector_14	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid14.S:40
+000000f0 T _nds32_vector_15
+00000100 R _nds32_nmih
+00000104 R _nds32_wrh
+00000108 R _nds32_jmptbl_00
+0000010c V _nds32_jmptbl_01
+00000110 V _nds32_jmptbl_02
+00000114 V _nds32_jmptbl_03
+00000118 V _nds32_jmptbl_04
+0000011c V _nds32_jmptbl_05
+00000120 V _nds32_jmptbl_06
+00000124 V _nds32_jmptbl_07
+00000128 R _nds32_jmptbl_08
+0000012c R _nds32_jmptbl_09
+00000130 R _nds32_jmptbl_10
+00000134 V _nds32_jmptbl_11
+00000138 V _nds32_jmptbl_12
+0000013c V _nds32_jmptbl_13
+00000140 V _nds32_jmptbl_14
+00000144 R _nds32_jmptbl_15
+00000148 T _nds32_e_sa_nr	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/excp_isr.S:101
+0000018a T _nds32_i_ps_nn	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/intr_isr.S:116
+000001a0 T _nds32_i_ps_nr	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/intr_isr.S:103
+000001e0 T _nds32_reset	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+000001e0 T _start	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+00000260 t Default_Handler	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:17
+00000260 W HW2_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000260 W HW3_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000260 W HW4_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000260 W HW5_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000260 W SW0_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000260 W error_exception_handler	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000260 W tlb_exception_handler	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:19
+00000262 T __null_function	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:22
+00000264 T __c_init	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:26
+0000029c T __cpu_init	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-default.c:49
+000002ce T _nds32_init_mem	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-soc.c:19
+000002de T __soc_init	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../init-soc.c:26
+000002e0 T nmi_handler	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:7
+000002e8 T GIE_ENABLE	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:11
+000002f2 T GIE_DISABLE	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:17
+000002fc T gen_swi	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:24
+0000031c T initIntr_standby	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:34
+00000324 T clear_swi	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:43
+00000338 T reset_handler	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:63
+00000360 T syscall_handler	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:76
+0000036a T HW0_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:91
+000003cc T HW1_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:112
+00000416 T SWI_ISR	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:129
+00000436 T delay1	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:6
+00000452 T DRV_EnableHWInt	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:18
+0000046c T DRV_BlockIntDisable	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:28
+000004b6 T DRV_IntInitial	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:39
+000004cc T DRV_SysXtal	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:54
+000004f0 T OS_PowerOnDriverInitial	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:80
+00000508 T CheckBusy	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:111
+000005a2 T WriteData	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:134
+000005fe T WriteIns	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:146
+0000065a T InitialLCD	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:159
+000006c0 T InitialRTC	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:194
+00000768 T DisplayTime	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:209
+0000094c T main	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:259
+00000b2a T SendandSet	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:339
+00000bc0 T DRV_PutChar	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../uart.c:71
+00000c1e T DRV_PutStr	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../uart.c:93
+00000c50 T DRV_IntToStr	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../uart.c:108
+00000e16 T DRV_Printf	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../uart.c:194
+00000fe8 T memcpy
+00000ffc T memset
+00001125 R year	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:249
+00001126 R month	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:250
+00001127 R week	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:251
+00001128 R day	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:252
+00001129 R hour	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:253
+0000112a R min	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:254
+0000112b R sec	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:255
+0000112c A __data_lmastart
+00100200 D __data_start
+00100200 D setsec	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:245
+00100204 B __bss_start
+00100204 B _edata
+00100204 B _lmaend
+00100204 B count	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../interrupt-c-ext.c:86
+00100208 B nddigit	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:246
+0010020c B final	/cygdrive/c/Users/user/Downloads/給學生/Example/Debug/../main.c:247
+00100210 W _FP_BASE_
+00100210 W _SDA_BASE_
+00100210 B u8TxdBuf	/cygdrive/c/Andestech/AndeSight211MCU/ide_64/workspace/WT58F2C9_RTC/Debug/../uart.c:69
+00100228 B _end
+00103000 A _stack
